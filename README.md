@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Update .env file in the project root to connect to the backend server.
+If you're not running the backend server at port 3000, update .env file in the project root.
 
 ## Available Scripts
 
