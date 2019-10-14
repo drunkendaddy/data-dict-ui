@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Update .env file in the project root to connect to the backend server.
+
 ## Available Scripts
 
 In the project directory, you can run:
