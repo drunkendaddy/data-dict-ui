@@ -1,9 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="738db646-713a-49b1-ad4d-46f6cb3bcb1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddVariables/AddVariables.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddVariables/AddVariables.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddVariables/AddVariables.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddVariables/IAddVariablesProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddVariables/IAddVariablesState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/IHomeProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/IHomeState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Variables/IVariablesProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Variables/IVariablesState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Variables/Variables.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Variables/Variables.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Variables/Variables.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin/Users/IUsersProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin/Users/IUsersState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin/Users/Users.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin/Users/Users.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/admin/Users/Users.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Landing/ILandingProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Landing/ILandingState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Landing/Landing.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Landing/Landing.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Landing/Landing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Login/ILoginProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Login/ILoginState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Login/Login.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Login/Login.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Login/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/SignUp/ISignUpProps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/SignUp/ISignUpState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/SignUp/SignUp.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/SignUp/SignUp.module.scss.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/SignUp/SignUp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/privateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ApiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S8HA1UtadskX2RdS1pqcsqmdUs" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Chips" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Chips" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="738db646-713a-49b1-ad4d-46f6cb3bcb1d" name="Default Changelist" comment="" />
+      <created>1570938155355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570938155355</updated>
+      <workItem from="1570938159776" duration="57209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Variables/Variables.tsx</url>
+          <line>167</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
